@@ -1,0 +1,9 @@
+D:\桌面\C#\windows窗体\WindowsFormsApp1\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe.config
+D:\桌面\C#\windows窗体\WindowsFormsApp1\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.exe
+D:\桌面\C#\windows窗体\WindowsFormsApp1\WindowsFormsDemo\bin\Debug\WindowsFormsDemo.pdb
+D:\桌面\C#\windows窗体\WindowsFormsApp1\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.FormOpacity.resources
+D:\桌面\C#\windows窗体\WindowsFormsApp1\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.Properties.Resources.resources
+D:\桌面\C#\windows窗体\WindowsFormsApp1\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.GenerateResource.cache
+D:\桌面\C#\windows窗体\WindowsFormsApp1\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.csproj.CoreCompileInputs.cache
+D:\桌面\C#\windows窗体\WindowsFormsApp1\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.exe
+D:\桌面\C#\windows窗体\WindowsFormsApp1\WindowsFormsDemo\obj\Debug\WindowsFormsDemo.pdb
