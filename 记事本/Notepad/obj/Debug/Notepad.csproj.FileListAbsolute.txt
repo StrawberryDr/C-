@@ -1,0 +1,10 @@
+D:\桌面\上课C#\windows窗体\Notepad\Notepad\bin\Debug\Notepad.exe.config
+D:\桌面\上课C#\windows窗体\Notepad\Notepad\bin\Debug\Notepad.exe
+D:\桌面\上课C#\windows窗体\Notepad\Notepad\bin\Debug\Notepad.pdb
+D:\桌面\上课C#\windows窗体\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+D:\桌面\上课C#\windows窗体\Notepad\Notepad\obj\Debug\Notepad.frmTxt.resources
+D:\桌面\上课C#\windows窗体\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\桌面\上课C#\windows窗体\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\桌面\上课C#\windows窗体\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\桌面\上课C#\windows窗体\Notepad\Notepad\obj\Debug\Notepad.exe
+D:\桌面\上课C#\windows窗体\Notepad\Notepad\obj\Debug\Notepad.pdb
