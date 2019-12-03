@@ -1,0 +1,7 @@
+D:\桌面\上课C#\练习\Ex5_8\Ex5_8\bin\Debug\Ex5_8.exe.config
+D:\桌面\上课C#\练习\Ex5_8\Ex5_8\bin\Debug\Ex5_8.exe
+D:\桌面\上课C#\练习\Ex5_8\Ex5_8\bin\Debug\Ex5_8.pdb
+D:\桌面\上课C#\练习\Ex5_8\Ex5_8\obj\Debug\Ex5_8.csprojAssemblyReference.cache
+D:\桌面\上课C#\练习\Ex5_8\Ex5_8\obj\Debug\Ex5_8.csproj.CoreCompileInputs.cache
+D:\桌面\上课C#\练习\Ex5_8\Ex5_8\obj\Debug\Ex5_8.exe
+D:\桌面\上课C#\练习\Ex5_8\Ex5_8\obj\Debug\Ex5_8.pdb
