@@ -1,0 +1,9 @@
+D:\桌面\上课C#\windows窗体\EX7_5_3\EX7_5_3\bin\Debug\EX7_5_3.exe.config
+D:\桌面\上课C#\windows窗体\EX7_5_3\EX7_5_3\bin\Debug\EX7_5_3.exe
+D:\桌面\上课C#\windows窗体\EX7_5_3\EX7_5_3\bin\Debug\EX7_5_3.pdb
+D:\桌面\上课C#\windows窗体\EX7_5_3\EX7_5_3\obj\Debug\EX7_5_3.Form1.resources
+D:\桌面\上课C#\windows窗体\EX7_5_3\EX7_5_3\obj\Debug\EX7_5_3.Properties.Resources.resources
+D:\桌面\上课C#\windows窗体\EX7_5_3\EX7_5_3\obj\Debug\EX7_5_3.csproj.GenerateResource.cache
+D:\桌面\上课C#\windows窗体\EX7_5_3\EX7_5_3\obj\Debug\EX7_5_3.csproj.CoreCompileInputs.cache
+D:\桌面\上课C#\windows窗体\EX7_5_3\EX7_5_3\obj\Debug\EX7_5_3.exe
+D:\桌面\上课C#\windows窗体\EX7_5_3\EX7_5_3\obj\Debug\EX7_5_3.pdb
